@@ -1,0 +1,10 @@
+include AUTHORS
+include README.md
+include LICENSE
+include Makefile
+include tox.ini
+recursive-include docs *
+recursive-include requirements *
+recursive-include facebook_pixel_code/templates/gtm *.html
+recursive-include facebook_pixel_code/tests/media *.js *.css *.png *.coffee
+recursive-include facebook_pixel_code/tests/test_templates *.html
