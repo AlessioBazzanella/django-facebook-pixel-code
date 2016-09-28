@@ -26,7 +26,7 @@ setup(
   include_package_data=True,
   long_description=read('README.md'),
   classifiers=[
-    "Development Status :: 1 - Alpha",
+    "Development Status :: 3 - Alpha",
     "Topic :: Utilities",
     "License :: OSI Approved :: MIT License",
   ],
